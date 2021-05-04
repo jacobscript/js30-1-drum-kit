@@ -1,1 +1,1 @@
-# Drum Kit with Vanila JavaScript
+# Drum Kit with Vanilla JavaScript
