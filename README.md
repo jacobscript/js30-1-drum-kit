@@ -1,1 +1,1 @@
-# js30-1-drum-kit
+# Drum Kit with Vanila JavaScript
